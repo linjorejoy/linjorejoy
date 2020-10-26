@@ -13,8 +13,10 @@ I am a Mechanical Engineer from Kerala with an interest in design and programmin
 <a href="https://www.instagram.com/linjorejoy/">
   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
 </a>
+<br>
+<br>
 
-![](https://visitor-badge.glitch.me/badge?page_id=linjorejoy)
+**Thanks For Visiting My Page:>** ![](https://visitor-badge.glitch.me/badge?page_id=linjorejoy) 
 
 
 <!-- <a href="https://github.com/linjorejoy">
