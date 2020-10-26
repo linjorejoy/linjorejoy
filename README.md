@@ -51,3 +51,7 @@ I am a Mechanical Engineer from Kerala with an interest in design and programmin
 <br>
 <br>
 
+
+<a href="https://github.com/linjorejoy">
+  <img src="https://github-readme-stats.vercel.app/api?username=linjorejoy&show_icons=true&hide_border=true" />
+</a>
