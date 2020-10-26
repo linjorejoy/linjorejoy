@@ -42,9 +42,12 @@ I am a Mechanical Engineer from Kerala with an interest in design and programmin
 ## Design And Analysis Softwares
 
 <br>
+<code><img src="img/solidworks-vector-logo.svg" width="80"> </code>
+<code><img src="img/ANSYS-01.svg" width="80"></code>
+<code><img src="img/autodesk-4.svg" width="80"></code>
+<code><img src="img/DS-CATIA-Logo.png" width="80"></code>
+<code><img src="https://img2.pngio.com/hedra-plm-solutions-simulia-png-3103_611.png" alt="Hedra PLM Solutions" width="80"></code>
 
-<img src="img/solidworks-vector-logo.svg" width="80"> 
-<img src="img/ANSYS-01.svg" width="80">
-<img src="img/autodesk-4.svg" width="80">
-<img src="img/DS-CATIA-Logo.png" width="80">
-<img src="https://img2.pngio.com/hedra-plm-solutions-simulia-png-3103_611.png" alt="Hedra PLM Solutions" width="80"
+
+
+
