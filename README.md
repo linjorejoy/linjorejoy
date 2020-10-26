@@ -2,3 +2,50 @@
 
 I am a Mechanical Engineer from Kerala with an interest in design and programming.
 
+<a href="https://twitter.com/LinjoRejoy">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/linjo-rejoy-951b99162/">
+  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/linjorejoy/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.reddit.com/u/Amazonian_Panda">
+  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=linjorejoy)
+
+
+<!-- <a href="https://github.com/linjorejoy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linjorejoy&layout=compact" />
+</a> -->
+
+<br />
+
+## Languages and Tools
+<code><img src="https://img.shields.io/badge/-JAVA-659ad2?style=flat&logo=java&logoColor=ffffff"></code>
+<code><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=green"></code>
+<code><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></code>
+<code><img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"></code>
+<code><img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"></code>
+<code><img src="https://img.shields.io/badge/-git-4DB33D?style=flat&logo=GIT&logoColor=FFFFFF"></code>
+<code><img src="https://img.shields.io/badge/-C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"></code>
+<code><img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></code>
+<code><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/-Eclipse-007ACC?style=flat&logo=eclipse&logoColor=white"></code>
+
+<br>
+<br>
+
+## Design And Analysis Softwares
+
+<br>
+
+<img src="img/SWlogo33.svg" width="80"> 
+<img src="img/ansys-logo-yellow-skew-white-text.svg" width="80">
+<img src="img/autodesk-4.svg" width="80">
+<img src="img/DS-CATIA-Logo.png" width="80">
+<img src="https://img2.pngio.com/hedra-plm-solutions-simulia-png-3103_611.png" alt="Hedra PLM Solutions" width="80">
