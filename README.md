@@ -1,6 +1,6 @@
 
 
-## Hi, I am Linjo 👋
+## Hi, I am Linjo
 
 I am a Mechanical Engineer from Kerala with an interest in design and programming.
 
@@ -48,6 +48,6 @@ I am a Mechanical Engineer from Kerala with an interest in design and programmin
 <code><img src="img/DS-CATIA-Logo.png" width="80"></code>
 <code><img src="https://img2.pngio.com/hedra-plm-solutions-simulia-png-3103_611.png" alt="Hedra PLM Solutions" width="80"></code>
 
-
-
+<br>
+<br>
 
