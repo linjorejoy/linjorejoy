@@ -1,15 +1,17 @@
+<div style="background-color:#290001;color:white">
+
 ## Hi, I am Linjo 👋
 
 I am a Mechanical Engineer from Kerala with an interest in design and programming.
 
 <a href="https://twitter.com/LinjoRejoy">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px" style="margin: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/linjo-rejoy-951b99162/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
 </a>
 <a href="https://www.instagram.com/linjorejoy/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
 </a>
 <a href="https://www.reddit.com/u/Amazonian_Panda">
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
@@ -49,3 +51,4 @@ I am a Mechanical Engineer from Kerala with an interest in design and programmin
 <img src="img/autodesk-4.svg" width="80">
 <img src="img/DS-CATIA-Logo.png" width="80">
 <img src="https://img2.pngio.com/hedra-plm-solutions-simulia-png-3103_611.png" alt="Hedra PLM Solutions" width="80">
+</div>
