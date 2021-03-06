@@ -16,7 +16,8 @@ I am a Mechanical Engineer from Kerala with an interest in design and programmin
 <br>
 <br>
 
-**Thanks For Visiting My Page:>** ![](https://visitor-badge.glitch.me/badge?page_id=linjorejoy) 
+**Thanks For Visiting My Page:>** 
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=linjorejoy)  -->
 
 
 <!-- <a href="https://github.com/linjorejoy">
